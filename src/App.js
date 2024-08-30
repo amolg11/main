@@ -10,7 +10,7 @@ import Navbar from "./components/Navbar";
 function App() {
   return (
     <>
-      <Navbar></Navbar>
+      <Navbar>Test</Navbar>
       <Hero></Hero>
       <About></About>
       <Tours></Tours>
